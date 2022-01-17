@@ -1,0 +1,11 @@
+.chicken {
+  max-width: 55%;
+  max-height: 55%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.bodyy {
+  background-color: rgb(238, 189, 97);
+}
